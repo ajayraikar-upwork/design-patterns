@@ -1,5 +1,8 @@
 # SRP (Single Responsiblity Principle) or SOC (Seperation of Concerns)
-
+'''
+* A class should only have one reason to change
+* Seperation of concerns - different classes handling different, independent tasks/problems
+'''
 
 class Journal:
     def __init__(self):
